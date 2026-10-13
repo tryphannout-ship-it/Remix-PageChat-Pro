@@ -1,0 +1,8 @@
+{
+  "name": "Remix PageChat Pro - កម្មវិធីគ្រប់គ្រងឆាតផេក និងការលក់",
+  "description": "ប្រព័ន្ធគ្រប់គ្រងឆាតផេក ឆ្លើយតបសារអតិថិជន បង្កើតវិក្កយបត្រ និងគ្រប់គ្រងការកុម្ម៉ង់សម្រាប់អាជីវកម្មអនឡាញ (Omnichannel Social Page Chat \u0026 Order Management System).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
